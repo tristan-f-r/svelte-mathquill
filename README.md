@@ -1,4 +1,4 @@
-# [svelte-mathquill](https://leodog896.github.io/svelte-mathquill)
+# [svelte-mathquill](https://tristan-f-r.github.io/svelte-mathquill)
 
 [![npm](https://img.shields.io/npm/v/svelte-mathquill)](https://npmjs.com/package/svelte-mathquill)
 
